@@ -98,3 +98,22 @@ body {
     letter-spacing: 1px;
 
 }
+
+
+@media (min-width: 280px) and (max-width:285px){
+.eye {
+    position: absolute;
+    top: 237px;
+    left: 204px;
+    width: 30px;
+}
+}
+
+@media (min-width: 307px) and (max-width:330px){
+.eye {
+    position: absolute;
+    top: 215px;
+    left: 235px;
+    width: 30px;
+}
+}
